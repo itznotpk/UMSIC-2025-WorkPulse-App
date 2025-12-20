@@ -156,13 +156,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is private and proprietary.
 
-## 🙏 Acknowledgments
-
-- Built with [v0.dev](https://v0.dev/)
-- UI components from [shadcn/ui](https://ui.shadcn.com/)
-- Icons from [Lucide](https://lucide.dev/)
-
----
-
 **Note**: This is a wellness and productivity coaching application. For production use, ensure proper privacy measures and consent mechanisms are in place for any health-related features, especially camera-based scanning.
+
 
