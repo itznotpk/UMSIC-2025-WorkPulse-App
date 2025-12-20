@@ -1,5 +1,8 @@
 # WorkPulse Staff App
 
+Employee / Staff perspective: Frictionless / Zero-Hardware health monitoring gamified dashboard built with Next.js, featuring rPPG scanning on smartphone, "Wellness Leaderboard", "Social Wellness 
+& Community Hub", "Personal Health Trends & AI-driven Insights", "Burnout / Work-Readiness Score Prediction".
+
 ## 🌟 Features
 
 - **Health Check-In**: Real-time camera-based wellness scanning with readiness score tracking
@@ -156,6 +159,7 @@ Contributions are welcome! Please follow these steps:
 
 This project is private and proprietary.
 
-**Note**: This is a wellness and productivity coaching application. For production use, ensure proper privacy measures and consent mechanisms are in place for any health-related features, especially camera-based scanning.
+---
+
 
 
