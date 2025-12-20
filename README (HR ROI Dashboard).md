@@ -150,5 +150,3 @@ This project is private and proprietary.
 owered by [Recharts](https://recharts.org/)
 
 ---
-
-**Note**: This is a demonstration/prototype dashboard. For production use, integrate with real health monitoring APIs and implement proper authentication, authorization, and data security measures.
