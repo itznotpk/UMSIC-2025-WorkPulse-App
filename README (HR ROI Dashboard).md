@@ -1,6 +1,6 @@
-# WorkPulse HR Dashboard
+# WorkPulse HR ROI Dashboard
 
-A modern employee wellness and health monitoring dashboard built with Next.js, featuring real-time health metrics tracking, financial ROI analysis, and gamified wellness challenges.
+HR / CFO perspective: Employee wellness and health monitoring dashboard built with Next.js, featuring real-time health metrics tracking, financial ROI analysis, and gamified wellness challenges.
 
 ## 🌟 Features
 
@@ -147,12 +147,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is private and proprietary.
-
-## 🙏 Acknowledgments
-
-- Built with [shadcn/ui](https://ui.shadcn.com/) components
-- Icons by [Lucide](https://lucide.dev/)
-- Charts powered by [Recharts](https://recharts.org/)
+owered by [Recharts](https://recharts.org/)
 
 ---
 
