@@ -1,6 +1,4 @@
-# Work Pulse AI
-
-A modern employee wellbeing and productivity coaching application built with Next.js. Work Pulse AI helps users track their health, complete missions, engage with the community, and maintain optimal work-life balance.
+# WorkPulse Staff App
 
 ## 🌟 Features
 
@@ -167,3 +165,4 @@ This project is private and proprietary.
 ---
 
 **Note**: This is a wellness and productivity coaching application. For production use, ensure proper privacy measures and consent mechanisms are in place for any health-related features, especially camera-based scanning.
+
