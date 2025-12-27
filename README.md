@@ -359,13 +359,7 @@ pnpm build
 vercel
 ```
 
-Alternatively, connect your GitHub repository to Vercel for automatic deployments on push.
-
----
-
-## 📄 License
-
-This project is private and proprietary.
+Alternatively, connect your GitHub repository to Vercel for automatic deployments on push.\
 
 ---
 
