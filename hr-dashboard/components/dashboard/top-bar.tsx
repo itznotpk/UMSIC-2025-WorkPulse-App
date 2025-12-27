@@ -14,7 +14,7 @@ export function TopBar() {
     >
       <div className="flex items-center gap-3">
         <h1 className="text-xl font-semibold bg-gradient-to-r from-foreground to-muted-foreground bg-clip-text text-transparent">
-          WorkPulse AI
+          WorkPulse
         </h1>
         <Badge variant="outline" className="text-xs border-primary/30 text-primary">
           HR Command Center

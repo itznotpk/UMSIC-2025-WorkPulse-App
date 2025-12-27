@@ -1,4 +1,4 @@
-# WorkPulse AI - Employee Wellness & ROI Platform
+# WorkPulse - Employee Wellness & ROI Platform
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ## Overview
 
-**WorkPulse AI** is a dual-interface wellness platform designed to bridge the gap between employee wellbeing and organizational ROI. The platform consists of two complementary applications:
+**WorkPulse** is a dual-interface wellness platform designed to bridge the gap between employee wellbeing and organizational ROI. The platform consists of two complementary applications:
 
 1. **Staff App** - Mobile-first wellness interface for employees featuring rPPG camera-based health scanning, gamified missions, and community engagement
 2. **HR Dashboard** - Strategic analytics dashboard for HR/CFO to monitor organizational health metrics, track ROI, and manage wellness initiatives

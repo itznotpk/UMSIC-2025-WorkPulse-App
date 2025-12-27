@@ -7,7 +7,7 @@ import "./globals.css"
 const _inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "WorkPulse AI - HR Command Center",
+  title: "WorkPulse - HR Command Center",
   description: "Strategic HR Analytics Dashboard",
   generator: "v0.app",
   icons: {
