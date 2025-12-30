@@ -359,7 +359,7 @@ pnpm build
 vercel
 ```
 
-Alternatively, connect your GitHub repository to Vercel for automatic deployments on push.\
+Alternatively, connect your GitHub repository to Vercel for automatic deployments on push.
 
 ---
 
